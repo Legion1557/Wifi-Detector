@@ -298,9 +298,9 @@ void Help() {
     cout << "\nWifi protector designed to protect networks from unwanted and untrusted device connections, designed to combat intruders who want to steal data within the network" << endl << endl;
     cout << "This code was written by Legion" << endl << endl;
     cout << "WIFI PROTECTOR USAGE:\nsudo ./wifi_protector --deauth <interface_for_deauth> --scan <interface_for_scan> --arp <range_of_ip> --mac <mac_of_gateway> --channel <channel_of_your_wifi>" << endl;
-    cout << "sudo ./wifi_protector --help -> for help" << endl << endl;
+    cout << "sudo ./wifi_protector --help" << endl << endl;
     cout << "EXAMPLE:\nsudo ./wifi_protector --deauth wlan0 --scan wlan1 --arp 192.168.0.0/24 --mac 28:EE:52:60:DC:CF --channel 3\nsudo ./wifi_protector --help" << endl;
-    cout << "\nDON'T FORGET TO WHITELIST YOUR TRUSTED DEVICES!!!" << endl;
+    cout << "\nDON'T FORGET TO WHITELIST YOUR TRUSTED MAC DEVICES!!!" << endl;
 }
 
 void Logo() {

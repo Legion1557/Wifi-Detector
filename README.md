@@ -18,7 +18,7 @@ sudo ./wifi_protector --deauth wlan0 --scan wlan1 --arp 192.168.0.0/24 --mac 28:
 sudo ./wifi_protector --help
 ```
 
-DON'T FORGET TO WHITELIST YOUR TRUSTED DEVICES!!!
+DON'T FORGET TO WHITELIST YOUR TRUSTED MAC DEVICES!!!
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="150" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="180" /><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" width="290" />
 

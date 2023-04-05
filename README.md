@@ -1,9 +1,6 @@
- ____  _____ ____  ____  _____ ____     ____  ____   ___ _____ _____ ____ _____ ___ ___  _   _
-|  _ \| ____|  _ \/ ___|| ____/ ___|   |  _ \|  _ \ / _ \_   _| ____/ ___||_ _|_  _/ _ \| \ | |
-| | | |  _| | | | \___ \|  _|| |       | |_) | |_) | | | || | |  _|| |     | |  | | | | |  \| |
-| |_| | |___| |_| |___) | |__| |___    |  __/|  _ <| |_| || | | |__| |___  | |  | | |_| | |\  |
-|____/|_____|____/|____/|_____\____|   |_|   |_| \_\\___/ |_| |_____\____| |_| |___\___/|_| \_|
-                                                                                   Legion v1.0
+<img src="https://i.imgur.com/TdzDjh3.png" alt="cyberpunk" width="250" />
+
+DEDSEC PROTECTION
 
 Wifi protector designed to protect networks from unwanted and untrusted device connections, designed to combat intruders who want to steal data within the network
 
@@ -18,3 +15,6 @@ sudo ./wifi_protector --deauth wlan0 --scan wlan1 --arp 192.168.0.0/24 --mac 28:
 sudo ./wifi_protector --help
 
 DON'T FORGET TO WHITELIST YOUR TRUSTED DEVICES!!!
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="150" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="180" /><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" width="290" />
+

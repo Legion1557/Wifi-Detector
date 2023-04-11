@@ -292,7 +292,7 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-// ---------------------------
+// ----------------------------
 
 void Help() {
     cout << "\nWifi protector designed to protect networks from unwanted and untrusted device connections, designed to combat intruders who want to steal data within the network" << endl << endl;
